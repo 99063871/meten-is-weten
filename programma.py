@@ -1,5 +1,5 @@
 a = int(60)
-b = int(62)
+b = int(60)
 
 
 if a>b:
@@ -9,3 +9,6 @@ if a>b:
 elif a<b:
     Min = str(a)
     print('a is het kleinste getal: ' + Min)
+
+else:
+    print("a en b zijn even groot")
